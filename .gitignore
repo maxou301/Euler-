@@ -1,0 +1,6 @@
+test.c
+*.py
+.venv/*
+.idea/*
+*.swp
+out
